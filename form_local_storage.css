@@ -1,0 +1,20 @@
+body{
+    background-color: cadetblue;
+    color: black;
+}
+
+button{
+    background-color: black;
+    color: beige;
+}
+
+#conteudo{
+    position: absolute;
+    top: 340px;
+    left: 40px;
+    background-color: brown;
+    border: 2px solid black;
+    font-size: 1.2rem;
+    padding: 16px;
+    display: none;
+}
